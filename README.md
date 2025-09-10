@@ -1,12 +1,12 @@
 ### **Stop Sign Detection with YOLO**
 
-This application performs stop sign detection based on pretrained YOLO model and usings these libs; **OpenCV**, **cvui**, **ultralytics**, **tkinter**,and **NumPy**.
+This application performs stop sign detection based on pretrained YOLO model and using these libraries; **OpenCV**, **cvui**, **ultralytics**, **tkinter**,and **NumPy**.
 
 ---
 
 ### **How to Install and Run**
 
-You have a couple of options to get the app running:
+You have two options options to get the app running:
 
 1.  **Compile from source:** Install the necessary Python packages using `pip`:
     ```bash
@@ -18,7 +18,7 @@ You have a couple of options to get the app running:
 
 ### **Important Notes**
 
-* **File Structure:** Do not change the names of the image files or the folder they are in. Altering the file structure may cause a fatal error.
+* **File Structure:** Do not change the names of the image files or the folder they are in. Altering the file structure may cause errors.
 
 ---
 
@@ -26,7 +26,7 @@ You have a couple of options to get the app running:
 
 ![explanation](img/usage.png)
 
-The app interface allows you to select a predefiend images or you can upload custom image.
+The app interface allows you to select a predefined images or you can upload custom image.
 
 ---
 
