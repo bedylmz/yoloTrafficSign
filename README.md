@@ -44,8 +44,8 @@ Trained with these data sets [Data Set 1](https://www.kaggle.com/datasets/adilah
 
 ### **Screenshots of Predefined Images' Detection**
 
-![img2](screenShots/detected.jpg)
-![img3](screenShots/detected(1).jpg)
-![img4](screenShots/detected(2).jpg)
-![img5](screenShots/detected(3).png)
-![img5](screenShots/detected(4).png)
+![img2](yoloTrained/detected.jpg)
+![img3](yoloTrained/detected(1).jpg)
+![img4](yoloTrained/detected(2).jpg)
+![img5](yoloTrained/detected(3).jpg)
+![img5](yoloTrained/detected(4).jpg)
